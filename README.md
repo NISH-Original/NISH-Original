@@ -57,6 +57,6 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Molleti-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-molleti/)
-[![Email](https://img.shields.io/badge/Email-nishant.molleti%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nish2005@student.ubc.ca)
+[![Email](https://img.shields.io/badge/Email-nishant.molleti%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nishant.molleti@gmail.com)
 
 ---
