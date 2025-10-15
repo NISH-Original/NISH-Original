@@ -39,17 +39,16 @@
 
 ### 🧠 About Me
 
-- 🎮 Currently developing a **VR audio editing app** with spatial sound design in Unreal Engine  
-- 🧩 Built multiple custom **3D engines and renderers** from scratch using **C++**, **OpenGL**, and **Three.js**  
-- 🌐 Exploring real-time rendering and **tool development for games and XR applications**  
-- 🧑‍💻 Always learning — especially about **graphics pipelines, shaders, and procedural generation**
+- 🎮 Currently working at EdTech, UBC Faculty of Medicine as an XR Developer.  
+- 🧩 Built multiple custom 3D engines and renderers from scratch using C++, OpenGL, and Three.js.
+- 🌐 Exploring real-time rendering and tool development for games and XR applications.
 
 ---
 
 ### 🚀 Featured Projects
 
-🔹 [**CPU Ray Tracer**](https://github.com/NISH-Original/cpu-raytracer) – Real-time 3D ray tracer in C++ (~160 FPS after optimization)  
-🔹 [**Wolfenstein-style Engine**](https://github.com/NISH-Original/wolfenstein_game_engine) – Custom rasterized 3D engine (~250 FPS)  
+🔹 [**CPU Ray Tracer**](https://github.com/NISH-Original/cpu-raytracer) – Real-time 3D ray tracer in C++
+🔹 [**Wolfenstein-style Engine**](https://github.com/NISH-Original/wolfenstein_game_engine) – Custom rasterized 3D engine
 🔹 [**Web-based Voxel Engine**](https://github.com/NISH-Original/voxel-engine) – Three.js voxel world with chunk-based rendering  
 🔹 [**OpenGL Renderer**](https://github.com/NISH-Original/opengl-renderer) – Custom lighting and shading pipeline using GLSL  
 
@@ -58,7 +57,6 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Molleti-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-molleti/)
-[![GitHub](https://img.shields.io/badge/GitHub-NISH--Original-181717?logo=github&logoColor=white)](https://github.com/NISH-Original)
 [![Email](https://img.shields.io/badge/Email-nish2005%40student.ubc.ca-red?logo=gmail&logoColor=white)](mailto:nish2005@student.ubc.ca)
 
 ---
