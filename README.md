@@ -47,10 +47,10 @@
 
 ### 🚀 Featured Projects
 
-🔹 [**CPU Ray Tracer**](https://github.com/NISH-Original/cpu-raytracer) – Real-time 3D ray tracer in C++
-🔹 [**Wolfenstein-style Engine**](https://github.com/NISH-Original/wolfenstein_game_engine) – Custom rasterized 3D engine
-🔹 [**Web-based Voxel Engine**](https://github.com/NISH-Original/voxel-engine) – Three.js voxel world with chunk-based rendering  
-🔹 [**OpenGL Renderer**](https://github.com/NISH-Original/opengl-renderer) – Custom lighting and shading pipeline using GLSL  
+- [**CPU Ray Tracer**](https://github.com/NISH-Original/cpu-raytracer) – Real-time 3D ray tracer in C++
+- [**Wolfenstein-style Engine**](https://github.com/NISH-Original/wolfenstein_game_engine) – Custom rasterized 3D engine
+- [**Web-based Voxel Engine**](https://github.com/NISH-Original/voxel-engine) – Three.js voxel world with chunk-based rendering  
+- [**OpenGL Renderer**](https://github.com/NISH-Original/opengl-renderer) – Custom lighting and shading pipeline using GLSL  
 
 ---
 
