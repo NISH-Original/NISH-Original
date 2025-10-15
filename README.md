@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishant Molleti
 
-🎓 **Math + Computer Graphics @ UBC**  
-💡 **Aspiring Tools & Graphics Programmer**  
+🎓 **University of British Columbia**  
+💡 **Aspiring Graphics Programmer and Software Developer**  
 🎮 Passionate about building real-time rendering systems, VR tools, and game engines that empower artists and developers.
 
 ---
