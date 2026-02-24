@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Nishant Molleti
+# Hi, I'm Nishant Molleti
 
-🎓 University of British Columbia  
-💡 Aspiring Graphics Programmer and Software Developer  
-🎮 Passionate about building real-time rendering systems, VR tools, and game engines that empower artists and developers.
+- University of British Columbia  
+- Aspiring Graphics Programmer and Software Developer  
+- Passionate about building real-time rendering systems, VR tools, and game engines that empower artists and developers.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -37,15 +37,15 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎮 Currently working at UBC HIVE as an XR Developer Co-op.  
-- 🧩 Built multiple custom 3D engines and renderers from scratch using C++, OpenGL, and Three.js.
-- 🌐 Exploring real-time rendering and tool development for games and XR applications.
+- Currently working at UBC HIVE as an XR Developer Co-op.  
+- Built multiple custom 3D engines and renderers from scratch using C++, OpenGL, and Three.js.
+- Exploring real-time rendering and tool development for games and XR applications.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - [**CPU Ray Tracer**](https://github.com/NISH-Original/cpu-raytracer) – Real-time 3D ray tracer in C++
 - [**Wolfenstein-style Engine**](https://github.com/NISH-Original/wolfenstein_game_engine) – Custom rasterized 3D engine
@@ -54,7 +54,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Molleti-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-molleti/)
 [![Email](https://img.shields.io/badge/Email-nishant.molleti%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nishant.molleti@gmail.com)
