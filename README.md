@@ -47,6 +47,7 @@
 
 ### Featured Projects
 
+- [**Eclipse**](https://github.com/NISH-Original/Eclipse_CPSC_427) - 2D Top-down horde shooter game built on a custom ECS game engine from scratch.
 - [**CPU Ray Tracer**](https://github.com/NISH-Original/cpu-raytracer) – Real-time 3D ray tracer in C++
 - [**Wolfenstein-style Engine**](https://github.com/NISH-Original/wolfenstein_game_engine) – Custom rasterized 3D engine
 - [**Web-based Voxel Engine**](https://github.com/NISH-Original/voxel-engine) – Three.js voxel world with chunk-based rendering  
