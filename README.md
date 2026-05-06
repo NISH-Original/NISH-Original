@@ -39,7 +39,7 @@
 
 ### About Me
 
-- Currently working at UBC HIVE as an XR Developer Co-op.  
+- Currently working at UBC Emerging Media Lab as a Software Developer.  
 - Built multiple custom 3D engines and renderers from scratch using C++, OpenGL, and Three.js.
 - Exploring real-time rendering and tool development for games and XR applications.
 
