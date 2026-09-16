@@ -1,6 +1,7 @@
 # Hi, I'm Nishant Molleti
 
-- University of British Columbia  
+- University of British Columbia
+- SWE Intern at The Coalition Studio, Microsoft
 - Aspiring Graphics Programmer and Software Developer  
 - Passionate about building real-time rendering systems, VR tools, and game engines that empower artists and developers.
 
