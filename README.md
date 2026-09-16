@@ -39,7 +39,7 @@
 
 ### About Me
 
-- Currently working at UBC Emerging Media Lab as a Software Developer.  
+- Currently working at The Coalition Studio, Microsoft as a Software Engineer Intern.
 - Built multiple custom 3D engines and renderers from scratch using C++, OpenGL, and Three.js.
 - Exploring real-time rendering and tool development for games and XR applications.
 
